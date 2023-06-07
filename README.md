@@ -1,1 +1,1 @@
-Simulink diagram and results of RC discharge circuit
+Matlab simulink diagram and results of RC discharge circuit
